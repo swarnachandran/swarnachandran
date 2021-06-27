@@ -1,6 +1,6 @@
 - 👋 Hi, I’m swarnachandran
 - 👀 I’m interested in Full stack development and Data analysis. 
-- 🌱 I’m currently learning Computer Science and Engineering(3rd year)
+- 🌱 I’m currently learning Computer Science and Engineering(final year)
 - 📫 Reach me @swarnachandran1708@gmail.com
 
 <!---
