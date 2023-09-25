@@ -1,7 +1,6 @@
-- 👋 Hi, I’m swarnachandran
-- 👀 I’m interested in Full stack development and Data analysis. 
-- 🌱 I’m currently learning Computer Science and Engineering(final year)
-- 📫 Reach me @swarnachandran1708@gmail.com
+- Hi, I’m Pon swarnalaya Ravichandran
+- Reach me @swarnachandran1708@gmail.com
+- I am currently doing my master's in data science at george washington university located in washington, dc.
 
 <!---
 swarnachandran/swarnachandran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
