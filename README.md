@@ -1,6 +1,6 @@
 - Hi, I’m Pon swarnalaya Ravichandran
-- Reach me @swarnachandran1708@gmail.com
-- I am currently doing my master's in data science at george washington university located in washington, dc.
+- Reach me at ponswarnalaya.r@gmail.com
+- Detail-oriented and results-driven professional with 3+ years of experience in data analysis and visualization. Currently working as a Data Analyst at Local Grown Salads, where I focus on analyzing trends and patterns, extracting insights from agronomist datasets, and managing data pipelines in PostgreSQL for seamless transmission to internal teams. 
 
 <!---
 swarnachandran/swarnachandran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
